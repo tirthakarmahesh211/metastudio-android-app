@@ -1,0 +1,20 @@
+{
+	"$jason": {
+    	"head": {
+    		"title": "Tutorial"
+    	},
+    	"body":{
+    		"sections":[{
+    			"items":[
+    				{ "type": "vertical",
+    				  "style": {"spacing": "5"},	
+    			  	  "components":[
+    			  	    {"type": "label", "text":"Glab", "style": {"font": "HelveticaNeue-Bold", "size":"14"} },
+    			  	    {"type": "label", "text":"Metastudio", "style": {"color":"#cecece","font": "HelveticaNeue-Bold", "size":"12"} }
+    			  	  ]	
+    			    }
+    			]
+    		}]
+    	}
+	}
+}
