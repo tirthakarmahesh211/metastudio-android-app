@@ -260,7 +260,7 @@
           "items": [
             {
               "type": "label",
-              "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
+              // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
               "name": "Latest",
               "class": "bold padded",
               "href": {
@@ -269,7 +269,7 @@
             },
             {
               "type": "label",
-              "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_Category_2705919.png",
+              // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_Category_2705919.png",
               "text": "Categories",
               "class": "bold padded",
               "href": {
@@ -278,7 +278,7 @@
             },
             {
               "type": "label",
-               "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_group_195974.png",
+               // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_group_195974.png",
               "text": "Groups",
               "class": "bold padded",
               "href": {
