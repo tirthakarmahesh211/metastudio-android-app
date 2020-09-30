@@ -260,16 +260,14 @@
           "items": [
             {
               "type": "label",
-              // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
               "text": "Latest",
               "class": "bold padded",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/core/index.json"
+                "url": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/latest.json"
               }
             },
             {
               "type": "label",
-              // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_Category_2705919.png",
               "text": "Categories",
               "class": "bold padded",
               "href": {
@@ -278,7 +276,6 @@
             },
             {
               "type": "label",
-               // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_group_195974.png",
               "text": "Groups",
               "class": "bold padded",
               "href": {
