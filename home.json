@@ -261,7 +261,7 @@
             {
               "type": "label",
               // "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
-              "name": "Latest",
+              "text": "Latest",
               "class": "bold padded",
               "href": {
                 "url": "https://jasonette.github.io/Jasonpedia/core/index.json"
