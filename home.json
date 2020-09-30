@@ -13,27 +13,27 @@
 //           }
 //         }
 //       },
-//       "data": {
-//         "posts": [{
-//           "type": "post_types",
-//           "items": [ {
-//             "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
-//             "name": "Latest",
-//             "location": "Somewhere",
-//             "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
-//           },{
-//             "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_Category_2705919.png",
-//             "name": "Categories",
-//             "location": "Somewhere",
-//             "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
-//           }, {
-//             "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_group_195974.png",
-//             "name": "Groups",
-//             "location": "Somewhere",
-//             "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
-//           }]
-//         }]
-//       },
+      // "data": {
+      //   "posts": [{
+      //     "type": "post_types",
+      //     "items": [ {
+      //       "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
+      //       "name": "Latest",
+      //       "location": "Somewhere",
+      //       "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
+      //     },{
+      //       "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_Category_2705919.png",
+      //       "name": "Categories",
+      //       "location": "Somewhere",
+      //       "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
+      //     }, {
+      //       "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_group_195974.png",
+      //       "name": "Groups",
+      //       "location": "Somewhere",
+      //       "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
+      //     }]
+      //   }]
+      // },
 //       "templates": {
 //         "body": {
 //           "header": {
@@ -261,7 +261,7 @@
             {
               "type": "label",
               "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
-              "text": "Latest",
+              "name": "Latest",
               "class": "bold padded",
               "href": {
                 "url": "https://jasonette.github.io/Jasonpedia/core/index.json"

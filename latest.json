@@ -1,20 +1,62 @@
 {
-	"$jason": {
-    	"head": {
-    		"title": "Tutorial"
-    	},
-    	"body":{
-    		"sections":[{
-    			"items":[
-    				{ "type": "vertical",
-    				  "style": {"spacing": "5"},	
-    			  	  "components":[
-    			  	    {"type": "label", "text":"Glab", "style": {"font": "HelveticaNeue-Bold", "size":"14"} },
-    			  	    {"type": "label", "text":"Metastudio", "style": {"color":"#cecece","font": "HelveticaNeue-Bold", "size":"12"} }
-    			  	  ]	
-    			    }
-    			]
-    		}]
-    	}
-	}
+  "$jason": {
+    "head": {
+      "title": "Latest",
+      "styles": {
+        "bold": {
+          "font": "HelveticaNeue-CondensedBold",
+          "size": "15"
+        },
+        "padded": {
+          "padding": "10"
+        },
+        "normal": {
+          "font": "HelveticaNeue",
+          "size": "12"
+        }
+      },
+      "actions": {
+        "$foreground": {
+          "type": "$reload"
+        }
+      }
+    },
+    "body": {
+      "header": {
+        "title": "Latest",
+        "style": {
+          "background": "#8bb92d",
+          "color": "#ffffff",
+          "font": "AvenirNext-Bold",
+          "size": "14"
+        },
+      },
+      "sections": [
+        {
+          "data": {
+        "posts": [{
+          "type": "post_types",
+          "items": [ {
+            "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_update_1653023.png",
+            "name": "Latest",
+            "location": "Somewhere",
+            "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
+          },{
+            "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_Category_2705919.png",
+            "name": "Categories",
+            "location": "Somewhere",
+            "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
+          }, {
+            "avatar": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/noun_group_195974.png",
+            "name": "Groups",
+            "location": "Somewhere",
+            "content": "https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/images/hierarchy.png"
+          }]
+        }]
+      },
+
+        },
+              ]
+    }
+  }
 }
