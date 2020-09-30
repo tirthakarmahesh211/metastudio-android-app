@@ -271,7 +271,7 @@
               "text": "Categories",
               "class": "bold padded",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/view/index.json"
+                "url": "https://github.com/tirthakarmahesh211/metastudio-android-app/blob/master/categories.json"
               }
             },
             {
@@ -279,7 +279,7 @@
               "text": "Groups",
               "class": "bold padded",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/action/index.json"
+                "url": "https://github.com/tirthakarmahesh211/metastudio-android-app/blob/master/groups.json"
               }
             },
             {
