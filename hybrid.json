@@ -26,7 +26,7 @@
 "body": {
 "background": {
 "type": "html",
-"url": "https://chatshaala.in/",
+"url": "https://oertest.metastudio.org/",
 "action": {
 "trigger": "visit"
 }
